@@ -1,3 +1,5 @@
 # Screenshot
 
-![Deck of Card](https://raw.githubusercontent.com/hrizkiou/Carousel/main/screenshot/1.png)
+(https://raw.githubusercontent.com/hrizkiou/AnimatedCarousel/main/screenshot/1.png)
+(https://raw.githubusercontent.com/hrizkiou/AnimatedCarousel/main/screenshot/2.png)
+
